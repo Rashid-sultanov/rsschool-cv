@@ -10,3 +10,18 @@
 * HTML
 * CSS
 ---
+## Code Examples
+```javascript
+function multiply(a, b){
+  return a * b
+  }
+```
+---
+## Education
+---
+* Moscow Financial University
+    * management
+---
+## English
+
+A0
