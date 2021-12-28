@@ -1,4 +1,4 @@
-# *Rashid Ergasov*
+# *Rashid Ergashov*
 ## contacts info
 * phone: +998977370279
 * email: rashid26@mail.ru
